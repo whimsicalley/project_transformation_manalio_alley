@@ -63,17 +63,17 @@ a {
     background: #FFFFFF url(../img/img05.jpg) repeat;
 }
 
-.container {
-    width: 1000px;
-    margin: 0px auto;
-}
-
 .site-container {
     max-width: 1000px;
     max-height: 340px;
 }
 
 /******* Header *******/
+
+header {
+    width: 100%;
+    margin: 0px auto;
+}
 
 #header-wrapper {
     overflow: hidden;
