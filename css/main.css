@@ -58,17 +58,24 @@ a {
     margin: 0px auto;
 }
 
+.site-container {
+    max-width: 1000px;
+    max-height: 340px;
+}
+
 /******* Header *******/
 
 #header-wrapper {
     overflow: hidden;
 }
 
-#header {
-    width: 1000px;
-    height: 150px;
-    margin: 0 auto;
-    padding: 0px 0px;
+#banner {
+    margin: 0px auto;
+}
+
+#banner img {
+    height: auto;
+    width: 100%;
 }
 
 /******* Logo *******/
@@ -110,14 +117,6 @@ a {
     background: none;
     text-decoration: none;
     color: #000000;
-}
-
-/******* Splash *******/
-
-#splash {
-    width: 960px;
-    height: 300px;
-    margin: 0px auto;
 }
 
 /******* Search *******/
@@ -375,11 +374,4 @@ a {
 
 #footer a {
     color: #5E5E5E;
-}
-
-#banner {
-    margin: 0px auto;
-    width: 1000px;
-    height: 340px;
-    background: url(../img/img03.png) no-repeat left bottom;
 }
