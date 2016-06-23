@@ -34,14 +34,8 @@ p, ul, ol {
     line-height: 180%;
 }
 
-ul, ol {
-}
-
 a {
     color: #5E5E5E;
-}
-
-a:hover {
 }
 
 #wrapper {
@@ -53,7 +47,7 @@ a:hover {
     margin: 0px auto;
 }
 
-/* Header */
+/******* Header *******/
 
 #header-wrapper {
     overflow: hidden;
@@ -66,7 +60,7 @@ a:hover {
     padding: 0px 0px;
 }
 
-/* Logo */
+/******* Logo *******/
 
 #logo {
     float: left;
@@ -74,9 +68,6 @@ a:hover {
     margin: 0;
     padding: 0;
     color: #FFFFFF;
-}
-
-#logo h1, #logo p {
 }
 
 #logo h1 {
@@ -110,7 +101,7 @@ a:hover {
     color: #000000;
 }
 
-/* Splash */
+/******* Splash *******/
 
 #splash {
     width: 960px;
@@ -118,7 +109,7 @@ a:hover {
     margin: 0px auto;
 }
 
-/* Search */
+/******* Search *******/
 
 #search {
     float: right;
@@ -157,7 +148,7 @@ a:hover {
     color: #000000;
 }
 
-/* Menu */
+/******* Menu *******/
 
 #menu {
     float: right;
@@ -201,10 +192,7 @@ a:hover {
     color: #FFFFFF;
 }
 
-#menu .current_page_item a {
-}
-
-/* Page */
+/******* Page *******/
 
 #page {
     width: 1000px;
@@ -212,7 +200,7 @@ a:hover {
     padding: 30px 0px;
 }
 
-/* Content */
+/******* Content *******/
 
 #content {
     float: right;
@@ -254,9 +242,6 @@ a:hover {
     float: right;
 }
 
-.post .meta a {
-}
-
 .post .entry {
     padding: 0px 0px 40px 0px;
     text-align: justify;
@@ -290,7 +275,7 @@ a:hover {
     text-decoration: none;
 }
 
-/* Sidebar */
+/******* Sidebar *******/
 
 #sidebar {
     float: left;
@@ -357,91 +342,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-    padding: 20px;
-}
-
-#calendar table {
-    width: 100%;
-}
-
-#calendar tbody td {
-    text-align: center;
-}
-
-#calendar #next {
-    text-align: right;
-}
-
-/* Three Column Footer Content */
-
-#footer-content {
-    overflow: hidden;
-    width: 1000px;
-    margin: 0px auto;
-    color: #D6E2F0;
-}
-
-#footer-content a {
-    color: #92A9B6;
-}
-
-#footer-bg {
-    overflow: hidden;
-    padding: 30px 0px;
-    background: #E8E8E8;
-}
-
-#footer-content h2 {
-    margin: 0px;
-    padding: 0px 0px 20px 0px;
-    letter-spacing: -1px;
-    font-size: 26px;
-    color: #262626;
-}
-
-
-#footer-content #fbox1 {
-    float: left;
-    width: 300px;
-    margin-right: 50px;
-}
-
-#footer-content #fbox2 {
-    float: left;
-    width: 300px;
-}
-
-#footer-content #fbox3 {
-    float: right;
-    width: 300px;
-}
-
-#footer-content a {
-}
-
-#column1 {
-    float: left;
-    width: 290px;
-    margin-right: 30px;
-}
-
-#column2 {
-    float: left;
-    width: 280px;
-}
-
-#column3 {
-    float: right;
-    width: 260px;
-}
-
-/* Footer */
+/******* Footer *******/
 
 #footer {
     height: 140px;
@@ -465,58 +366,9 @@ a:hover {
     color: #5E5E5E;
 }
 
-#marketing {
-    overflow: hidden;
-    margin-bottom: 30px;
-    padding: 20px 0px 10px 0px;
-    border-top: 1px solid #E7EBED;
-    border-bottom: 1px solid #E7EBED;
-}
-
-#marketing .text1 {
-    float: left;
-    margin: 0px;
-    padding: 0px;
-    letter-spacing: -2px;
-    text-transform: lowercase;
-    font-size: 34px;
-    color: #345E9B;
-}
-
-#marketing .text2 {
-    float: right;
-}
-
-#marketing .text2 a {
-    display: block;
-    width: 252px;
-    height: 38px;
-    padding: 15px 0px 0px 0px;
-    background: url(../img/img07.jpg) no-repeat left top;
-    letter-spacing: -2px;
-    text-align: center;
-    text-transform: lowercase;
-    font-size: 30px;
-    color: #FFFFFF;
-}
-
 #banner {
     margin: 0px auto;
     width: 1000px;
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
-}
-
-#banner .content {
-}
-
-
-.list-style1 {
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
-}
-
-.list-style1 a {
-    color: #7F7F7F;
 }
