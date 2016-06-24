@@ -230,23 +230,16 @@ nav .current_page_item a {
 
 /******* Footer *******/
 
-#footer {
-    margin: 0 auto;
+footer {
     padding: 50px 0 15px 0;
     font-family: 'Abel', sans-serif;
 }
 
-#footer p {
-    margin: 0;
+footer p {
     padding-top: 10px;
     letter-spacing: 1px;
     line-height: normal;
-    font-size: 14px;
     text-transform: uppercase;
     text-align: center;
-    color: #5e5e5e;
-}
-
-#footer a {
     color: #5e5e5e;
 }
