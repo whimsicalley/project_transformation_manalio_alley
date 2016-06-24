@@ -136,38 +136,6 @@ nav .current_page_item a {
     color: #ffffff;
 }
 
-/******* Search *******/
-
-#search {
-    padding: 20px 0 0 0;
-}
-
-#search form {
-    margin: 0;
-    padding: 10px 0 0 20px;
-}
-
-#search fieldset {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-
-#search-text {
-    padding: 6px 5px 2px 5px;
-    border: 1px solid #e7ebed;
-    background: #ffffff;
-    text-transform: lowercase;
-    font: normal 11px Arial, Helvetica, sans-serif;
-    color: #5d781d;
-}
-
-#search-submit {
-    border: none;
-    background: #b9b9b9;
-    color: #000000;
-}
-
 /******* Page *******/
 
 #page {
