@@ -16,4 +16,8 @@ Advanced Web 2 - Summer 2016 - Due 6/24/2016
 
     I used this to hide headings, as we did in class. This allows my code to be structurally correct but still look good from a design standpoint.
 
+    * [Single vs multiple asides](http://stackoverflow.com/questions/19333404/single-html-aside-or-multiple-asides)
+
+    I used this article to find out if a site in general could have more than one aside. It helped me decide against changing all elements with the id of "sidebar" to simply the semantic "aside".
+
 ## Comments
