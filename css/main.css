@@ -104,10 +104,14 @@ header {
 
 /******* Navigation *******/
 
+.nav-container {
+    max-width: 500px;
+}
+
 nav {
     float: right;
-    width: 500px;
-    height: 90px;
+    width: 70%;
+    height: auto;
     margin: 0 auto;
     padding: 0;
 }
@@ -136,8 +140,6 @@ nav a {
     font-family: 'Oswald', sans-serif;
     font-size: 16px;
     font-weight: 300;
-    color: #1F1F1F;
-    border: none;
 }
 
 nav a:hover, nav .current_page_item a {
