@@ -32,14 +32,9 @@ h1, h2, h3 {
     margin: 0;
     padding: 0;
     text-transform: uppercase;
-    font-weight: normal;
     font-family: 'Oswald', sans-serif;
     font-weight: 200;
     color: #222222;
-}
-
-h1 {
-    font-size: 2em;
 }
 
 h2 {
@@ -93,7 +88,6 @@ header {
 #logo {
     float: left;
     width: 30%;
-    color: #FFFFFF;
 }
 
 #logo h1 {
@@ -105,14 +99,9 @@ header {
 #logo h1 a {
     color: #1F1F1F;
     text-shadow: 1px 1px 0px rgba(0,0,0,.2);
+    text-decoration: none;
 }
 
-#logo a {
-    border: none;
-    background: none;
-    text-decoration: none;
-    color: #000000;
-}
 
 /******* Search *******/
 
