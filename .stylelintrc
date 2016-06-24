@@ -1,3 +1,4 @@
+
 {
   "rules": {
     "at-rule-no-vendor-prefix": true,
@@ -12,9 +13,11 @@
     "color-no-invalid-hex": true,
     "comment-empty-line-before": "always",
     "comment-whitespace-inside": "always",
-    "declaration-block-semicolon-newline-after": "always-multi-line",
+    "declaration-block-no-shorthand-property-overrides": true,
+    "declaration-block-semicolon-newline-after": "always",
     "declaration-block-semicolon-space-after": "always-single-line",
     "declaration-block-semicolon-space-before": "never",
+    "declaration-block-trailing-semicolon": "always",
     "declaration-colon-space-after": "always",
     "declaration-colon-space-before": "never",
     "declaration-no-important": true,
@@ -22,7 +25,7 @@
     "function-comma-space-after": "always",
     "function-comma-space-before": "never",
     "function-parentheses-space-inside": "never",
-    "function-url-quotes": "double",
+    "function-url-quotes": "always",
     "function-whitespace-after": "always",
     "indentation": 4,
     "media-feature-colon-space-after": "always",
@@ -39,11 +42,7 @@
     "number-leading-zero": "always",
     "number-no-trailing-zeros": true,
     "number-zero-length-no-unit": true,
-    "property-no-vendor-prefix": true,
-    "rule-no-duplicate-properties": true,
-    "rule-no-shorthand-property-overrides": true,
     "rule-non-nested-empty-line-before": "always",
-    "rule-trailing-semicolon": "always",
     "selector-combinator-space-after": "always",
     "selector-combinator-space-before": "always",
     "selector-list-comma-newline-after": "always",
