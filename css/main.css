@@ -144,10 +144,6 @@ nav .current_page_item a {
 
 /******* Content *******/
 
-#content {
-    padding: 0;
-}
-
 .post {
     overflow: hidden;
     margin-bottom: 40px;
