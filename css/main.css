@@ -85,11 +85,6 @@ header {
 
 /******* Logo *******/
 
-#logo {
-    float: left;
-    width: 30%;
-}
-
 #logo h1 {
     line-height: 120px;
     letter-spacing: -2px;
@@ -105,23 +100,16 @@ header {
 /******* Navigation *******/
 
 nav {
-    float: right;
-    width: 70%;
     height: auto;
     margin: 0 auto;
     padding: 0;
 }
 
 nav ul {
-    float: right;
     margin: 0;
     padding: 20px 0px 0px 0px;
     list-style: none;
     line-height: normal;
-}
-
-nav li {
-    float: left;
 }
 
 nav a {
@@ -160,7 +148,6 @@ nav a:hover, nav .current_page_item a {
 /******* Search *******/
 
 #search {
-    float: right;
     height: 60px;
     padding: 20px 0px 0px 0px;
 }
@@ -203,7 +190,6 @@ nav a:hover, nav .current_page_item a {
 /******* Content *******/
 
 #content {
-    float: right;
     padding: 0px 0px 0px 0px;
 }
 
@@ -277,7 +263,6 @@ nav a:hover, nav .current_page_item a {
 /******* Sidebar *******/
 
 #sidebar {
-    float: left;
     margin: 0px;
     padding: 30px 0px 0px 0px;
 }
