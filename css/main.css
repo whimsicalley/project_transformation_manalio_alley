@@ -102,9 +102,9 @@ header {
     text-decoration: none;
 }
 
-/******* Menu *******/
+/******* Navigation *******/
 
-#menu {
+nav {
     float: right;
     width: 500px;
     height: 90px;
@@ -112,7 +112,7 @@ header {
     padding: 0;
 }
 
-#menu ul {
+nav ul {
     float: right;
     margin: 0;
     padding: 20px 0px 0px 0px;
@@ -120,11 +120,11 @@ header {
     line-height: normal;
 }
 
-#menu li {
+nav li {
     float: left;
 }
 
-#menu a {
+nav a {
     display: block;
     line-height: 100px;
     margin-right: 1px;
@@ -140,7 +140,7 @@ header {
     border: none;
 }
 
-#menu a:hover, #menu .current_page_item a {
+nav a:hover, nav .current_page_item a {
     background: url(../img/img01.jpg) repeat;
     text-decoration: none;
     color: #FFFFFF;
