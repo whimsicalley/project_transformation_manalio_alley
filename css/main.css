@@ -142,7 +142,7 @@ nav .current_page_item a {
     padding: 30px 0;
 }
 
-/******* Content *******/
+/******* Main Content *******/
 
 .post {
     overflow: hidden;
@@ -156,7 +156,6 @@ nav .current_page_item a {
 }
 
 .post .title a {
-    border: none;
     text-decoration: none;
     color: #222222;
 }
@@ -164,13 +163,11 @@ nav .current_page_item a {
 .post .meta {
     margin-bottom: 30px;
     padding: 10px 0 0 0;
-    text-align: left;
     font-family: 'Abel', sans-serif;
     font-size: 16px;
-    font-weight: 300;
 }
 
-.post .meta .date {
+.post .meta time {
     float: left;
 }
 
@@ -179,7 +176,7 @@ nav .current_page_item a {
 }
 
 .post .entry {
-    padding: 0 0 40px 0;
+    padding: 20px 0 40px 0;
     text-align: justify;
 }
 
@@ -188,23 +185,12 @@ nav .current_page_item a {
     margin-bottom: 30px;
 }
 
-.more {
-    display: block;
+.more,
+.comments {
     float: left;
     width: 88px;
     padding: 5px 5px;
     margin-right: 10px;
-    background: #222222;
-    color: #ffffff;
-    text-align: center;
-    text-decoration: none;
-}
-
-.comments {
-    display: block;
-    float: left;
-    width: 88px;
-    padding: 5px 5px;
     background: #222222;
     color: #ffffff;
     text-align: center;
