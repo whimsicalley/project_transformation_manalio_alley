@@ -60,7 +60,6 @@ a {
 
 .site-container {
     max-width: 1000px;
-    max-height: 340px;
 }
 
 /******* Header *******/
@@ -148,12 +147,10 @@ nav a:hover, nav .current_page_item a {
 /******* Search *******/
 
 #search {
-    height: 60px;
     padding: 20px 0px 0px 0px;
 }
 
 #search form {
-    height: 41px;
     margin: 0;
     padding: 10px 0 0 20px;
 }
@@ -174,7 +171,6 @@ nav a:hover, nav .current_page_item a {
 }
 
 #search-submit {
-    height: 22px;
     border: none;
     background: #B9B9B9;
     color: #000000;
@@ -304,7 +300,6 @@ nav a:hover, nav .current_page_item a {
 }
 
 #sidebar h2 {
-    height: 38px;
     padding: 0px 0px 30px 0px;
     letter-spacing: -.5px;
     font-size: 1.8em;
@@ -328,7 +323,6 @@ nav a:hover, nav .current_page_item a {
 /******* Footer *******/
 
 #footer {
-    height: 140px;
     margin: 0 auto;
     padding: 50px 0 15px 0;
     font-family: 'Abel', sans-serif;
