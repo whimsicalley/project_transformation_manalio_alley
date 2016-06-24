@@ -197,42 +197,24 @@ nav .current_page_item a {
     text-decoration: none;
 }
 
-/******* Sidebar *******/
+/******* Sidebar/Aside *******/
 
 #sidebar {
-    margin: 0;
     padding: 30px 0 0 0;
 }
 
 #sidebar ul {
-    margin: 0;
     padding: 0;
     list-style: none;
 }
 
-#sidebar li {
-    margin: 0;
-    padding: 0;
-}
-
 #sidebar li ul {
-    margin: 0 0;
     padding-bottom: 30px;
 }
 
 #sidebar li li {
     line-height: 40px;
     border-bottom: 1px solid #e7ebed;
-    margin: 0 0;
-    border-left: none;
-}
-
-#sidebar li li span {
-    display: block;
-    margin-top: -20px;
-    padding: 0;
-    font-size: 11px;
-    font-style: italic;
 }
 
 #sidebar li li a {
@@ -244,21 +226,6 @@ nav .current_page_item a {
     padding: 0 0 30px 0;
     letter-spacing: -0.5px;
     font-size: 1.8em;
-    color: #222222;
-}
-
-#sidebar p {
-    margin: 0 0;
-    padding: 0 30px 20px 30px;
-    text-align: justify;
-}
-
-#sidebar a {
-    border: none;
-}
-
-#sidebar a:hover {
-    text-decoration: underline;
 }
 
 /******* Footer *******/
