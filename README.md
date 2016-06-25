@@ -6,6 +6,8 @@ Advanced Web 2 - Summer 2016 - Due 6/24/2016
 
 * [Original repository](https://github.com/richardkalehoff/UF-project-responsive-transformation)
 
+* [Live Project](http://alleymanalio.com/project_transformation_manalio_alley/)
+
 ## Resources
 
 * [Combining Google fonts](http://googlewebfonts.blogspot.com/2010/09/optimizing-use-of-google-font-api.html)
@@ -22,8 +24,8 @@ Advanced Web 2 - Summer 2016 - Due 6/24/2016
 
 * [Banner content placement](https://www.sitepoint.com/community/t/html5-where-do-you-normally-place-the-banner-content-header-area-section-or/29045/6)
 
-    This site helped me decide if I should put the banner within the header or not. The general consensus was to not put it in there! 
+    This site helped me decide if I should put the banner within the header or not. The general consensus was to not put it in there!
 
 ## Comments
 
-* I just want to say **thank you** for your thorough e-mail back to me regarding this project! Based on your e-mail I reviewed the remaining floats (as you advised) and deemed they were important to the structure of the main articles.
+* I just want to say **thank you** for your thorough e-mail back to me regarding this project. It helped tremendously.
