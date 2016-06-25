@@ -20,6 +20,10 @@ Advanced Web 2 - Summer 2016 - Due 6/24/2016
 
     I used this article to find out if a site in general could have more than one aside. It helped me decide against changing all elements with the id of "sidebar" to simply the semantic "aside".
 
+* [Banner content placement](https://www.sitepoint.com/community/t/html5-where-do-you-normally-place-the-banner-content-header-area-section-or/29045/6)
+
+    This site helped me decide if I should put the banner within the header or not. The general consensus was to not put it in there! 
+
 ## Comments
 
-* I just want to say **thank you** for your thorough e-mail back to me regarding this project! Based on your e-mail I reviewed the remaining floats (as you advised) and deemed they were important to the structure of the main articles. 
+* I just want to say **thank you** for your thorough e-mail back to me regarding this project! Based on your e-mail I reviewed the remaining floats (as you advised) and deemed they were important to the structure of the main articles.
